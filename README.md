@@ -42,8 +42,10 @@ The Medical Management System is a Java-based desktop application designed to ma
 
 #### Clone the Repository:
  - Clone this repository to your local machine using Git:
- - git clone 
-```https://github.com/your-username/medical-management-system.git```
+ - Setup 
+```
+git clone https://github.com/Pratik-Poonjani/Medical_Management_System.git
+```
 
 #### Import Project: 
  - Import the project into your preferred Java IDE (Integrated Development Environment), IntelliJ IDEA.
